@@ -50,7 +50,7 @@ def parse_JD(url):
 	Things to look out for: 
 	1. Google Cloud
 	"""
-	driver = webdriver.Chrome("C:\\Users\\dixy\\Desktop\\spider\\104webscrape\\tutorial\\spiders\\chromedriver.exe") #chrome driver location
+	driver = webdriver.Chrome("path/to/chromedriver") #chrome driver location
 	print(url)
 	driver.get(url)
 	html = BeautifulSoup(driver.page_source, "lxml")
