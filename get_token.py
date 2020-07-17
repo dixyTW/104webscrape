@@ -159,9 +159,9 @@ def main():
 	with open('tokens.json', 'w') as f:
 		json.dump(json_lst, f, indent=4)
 	f.close()
-	# aggregate_dic()
-	# for i in range(len(dic_lst)):
-	# 	plot_bar_x(dic_lst[i], name_lst[i])
+	aggregate_dic()
+	for i in range(len(dic_lst)):
+		plot_bar_x(dic_lst[i], name_lst[i])
 	
 
 if __name__ == "__main__": 
