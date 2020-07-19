@@ -4,8 +4,8 @@ In any command line, type "scrapy crawl job -o url.json" to create the urls that
 run the python file get_token.py to generate a tokens file that contains all the parsed job description and graphs  
 
 # Results  
-![General](https://github.com/dixyTW/104webscrape/general.png "Programming Languages")
-![Frontend](https://github.com/dixyTW/104webscrape/front.png "Frontend")
-![Backend](https://github.com/dixyTW/104webscrape/back.png "Backend")
-![Tools](https://github.com/dixyTW/104webscrape/tools.png "Tools")
-![Database](https://github.com/dixyTW/104webscrape/db.png "Database")
+![General](https://github.com/dixyTW/104webscrape/blob/master/general.png "Programming Languages")
+![Frontend](https://github.com/dixyTW/104webscrape/blob/master/front.png "Frontend")
+![Backend](https://github.com/dixyTW/104webscrape/blob/master/back.png "Backend")
+![Tools](https://github.com/dixyTW/104webscrape/blob/master/tools.png "Tools")
+![Database](https://github.com/dixyTW/104webscrape/blob/master/db.png "Database")
